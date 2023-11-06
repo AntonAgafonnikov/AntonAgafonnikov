@@ -1,7 +1,7 @@
 ## **Антон Агафонников**
 ## Java-разработчик
 
-[Резюме](https://docs.google.com/document/d/11NjG7doeNo_LUPlfmuvOnQmjvL9N26dR/edit)
+[Резюме](https://docs.google.com/document/d/11NjG7doeNo_LUPlfmuvOnQmjvL9N26dR/edit?usp=drive_link)
 
 ---
 
@@ -41,8 +41,8 @@
 ---
 
 ### **Документы**
-- [Диплом о высшем образовании (Автоматизация техологических процессов)]()  
-- [Диплом о профессиональной переподготовке (Java-разработчик)]()
+- [Диплом о высшем образовании (Автоматизация техологических процессов)](https://drive.google.com/file/d/1bA0x6ZmGbXFVTeDdl-S0cWouY2zCttlk/view?usp=drive_link)  
+- [Диплом о профессиональной переподготовке (Java-разработчик)](https://drive.google.com/file/d/1fduPZbKQfDHU6UpgQFMlu2RCRv5yzvWI/view?usp=drive_link)
 
 ---
 
