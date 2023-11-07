@@ -1,7 +1,7 @@
 ## **Антон Агафонников**
 ## Java-разработчик
 
-[Резюме](https://docs.google.com/document/d/11NjG7doeNo_LUPlfmuvOnQmjvL9N26dR/edit?usp=drive_link)
+[Резюме](https://drive.google.com/file/d/1YZ9pmg4LXu4irYar5XGlAS6eaaulbWG-/view?usp=drive_link)
 
 ---
 
