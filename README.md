@@ -13,7 +13,7 @@
 ---
 
 ### **Ключевые компетенции**
-- Фреймворки: **Spring (Boot, Daata MVC, Security), Hibernate**  
+- Фреймворки: **Spring (Boot, Data MVC, Security), Hibernate**  
 - Сборщики проектов: **Maven, Gradle**  
 - Инструменты тестирования: **JUnit, Mockito, Testcontainers**  
 - Инструменты миграции: **Liquibase**  
