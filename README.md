@@ -33,21 +33,21 @@
    - Используется JWT-токен;
    - Для хранения файлов используется БД PostgreSQL;
    - Используются миграции;
-   - Запуск Frontend, Backend и БД в Docker-контейнере по одной команде из терминала.
-   **Технологии:** Java 17, Spring Boot, Spring Security, Spring Data, Sring MVC, Hibernate, SQL, JPQL, PostgreSQL, JWT, Maven, JUnut, Lombok, Testcontainers, Liquibase, Docker.
+   - Запуск Frontend, Backend и БД в Docker-контейнере по одной команде из терминала.  
+   **Технологии:** Java 17, Spring Boot, Spring Security, Spring Data, Sring MVC, Hibernate, SQL, JPQL, PostgreSQL, JWT, Maven, JUnut, Lombok, Testcontainers, Liquibase, Docker.  
    **Инструменты отладки:** Postman, DBeaver.
 3. [Сервис перевода денег](https://github.com/AntonAgafonnikov/course_project_money_transfer)
    **Особенности:**
    - REST API;
    - Backend написан под готовый Frontend по заранее оговорённой спецификации (YAML-файл);
-   - Многопоточность.
-   **Технологии:** Java 17, Spring Boot, Sring MVC, Maven, JUnut, Mockito, Multithreading, Docker.
+   - Многопоточность.  
+   **Технологии:** Java 17, Spring Boot, Sring MVC, Maven, JUnut, Mockito, Multithreading, Docker.  
    **Инструмент отладки:** Postman.
 5. [Сетевой чат](https://github.com/AntonAgafonnikov/course_project_2_network_chat)  
    - Многопоточность - каждый клиент подключается и обрабатывается в своём потоке;
    - Многомодульный проект;
-   - Добавлен GUI.
-   **Технологии:** Java 11, Swing, Maven, JUnut, Multithreading.
+   - Добавлен GUI.  
+   **Технологии:** Java 11, Swing, Maven, JUnut, Multithreading.  
    **Инструмент отладки:** Postman, PuTTY.
 
 ---
