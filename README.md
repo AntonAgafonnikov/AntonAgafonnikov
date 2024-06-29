@@ -1,12 +1,10 @@
 ## **Антон Агафонников**
 ## Java-разработчик
 
-[Резюме](https://drive.google.com/file/d/1zLelIPnA8ftGYe1wiz37DEQpAwi808mI/view?usp=drive_link)
-
 ---
 
 ### **Обо мне**
-Инженер-программист с коммерческим опытом в сфере разработки программного обеспечения. Работал в крупной IT-компании, где занимался проектированием систем автоматизации и программированием логических контроллеров.
+Java developer с коммерческим опытом в сфере разработки программного обеспечения.
 
 ---
 
@@ -24,7 +22,7 @@
 
 ---
 
-### **Учебные проекты**
+### **Pet-проекты**
 1. [Облачное хранилище](https://github.com/AntonAgafonnikov/cloud_storage)
    **Особенности:**
    - REST API;
@@ -51,13 +49,7 @@
 
 ---
 
-### **Документы**
-- [Диплом о высшем образовании (Автоматизация техологических процессов)](https://drive.google.com/file/d/1bA0x6ZmGbXFVTeDdl-S0cWouY2zCttlk/view?usp=drive_link)  
-- [Диплом о профессиональной переподготовке (Java-разработчик)](https://drive.google.com/file/d/1JakDNqTQ1KscYt-u_w5iCR0m_Yq9eVB2/view?usp=drive_link)  
-
----
-
 ### **Контакты**
-Phone / WhatsApp: *+7 (921) 784-41-26*  
+Phone: *+7 (921) 784-41-26*  
+Telegram: *@a_agafonnikov*
 E-mail: *anton.agafonnikov@mail.ru*  
-Telegram: *@a_agafonnikov* 
