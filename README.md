@@ -22,5 +22,5 @@
 
 ### **Контакты**
 Phone: *+7 (921) 784-41-26*  
-Telegram: *@a_agafonnikov*
+Telegram: *@a_agafonnikov*  
 E-mail: *anton.agafonnikov@mail.ru*  
